@@ -1,2 +1,9 @@
 data/
-movie/
+*.mpg
+*.avi
+*.mp4
+*.wmv
+*.webm
+*.gif
+*.png
+*.jpg
